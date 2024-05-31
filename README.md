@@ -128,7 +128,7 @@
   <br />
   <br />
   <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <a href="https://github.com/congdoan6997/github-readme-activity-graph" title="Go to Source">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=congdoan6997&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=congdoan6997&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
@@ -153,11 +153,11 @@
     </picture>
   </a>
 <!-- repo 2 -->
-  <a align="left" href="https://github.com/congdoan6997/mern-admin" title="Admin Dashboard">
+  <a align="left" href="https://github.com/congdoan6997/finance" title="Finance dashboard">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=mern-admin&theme=graywhite&border_radius=10" alt="congdoan6997's repository stats - mern admin" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=finance&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=finance&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=finance&theme=graywhite&border_radius=10" alt="congdoan6997's repository stats - mern admin" />
     </picture>
 </a>
 </div>
@@ -165,19 +165,19 @@
 <!-- second row -->
 <div width="100%" align="center">
 <!-- repo 3 -->
-  <a align="left" href="https://github.com/congdoan6997/portfolio-react" title="React Portfolio">
+  <a align="left" href="https://github.com/congdoan6997/nike-website" title="Nike Website">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=portfolio-react&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=portfolio-react&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=portfolio-react&theme=graywhite&border_radius=10" alt="congdoan6997's repository stats - portfolio react" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=nike-website&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=nike-website&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=nike-website&theme=graywhite&border_radius=10" alt="congdoan6997's repository stats - portfolio react" />
     </picture>
   </a>
 <!-- repo 4 -->
-  <a align="right" href="https://github.com/congdoan6997/real-estate-app" title="Real EState App">
+  <a align="right" href="https://github.com/congdoan6997/portfolio-3d" title="Portfolio 3D">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=real-estate-app&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=real-estate-app&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=real-estate-app&theme=graywhite&border_radius=10" alt="congdoan6997's repository stats - real estate app" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=portfolio-3d&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=portfolio-3d&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=congdoan6997&repo=portfolio-3d&theme=graywhite&border_radius=10" alt="congdoan6997's repository stats - real estate app" />
     </picture>
 </div>
 <!-- spaces -->
