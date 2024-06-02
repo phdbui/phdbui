@@ -29,7 +29,7 @@
   <!-- twitter -->
 <!--   <a href="https://twitter.com/username" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>  -->
   <!-- gmail -->
-  <a href="congdoan6997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="congdoan6997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ef4444?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
   <a href="https://www.facebook.com/profile.php?id=100010557016039" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
@@ -63,9 +63,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=aws%2Cgooglecloud&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=aws%2Cgooglecloud&theme=light' />
-          <img src='https://skillicons.dev/icons?i=aws%2Cgooglecloud' alt="learning" />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=redis%2Caws%2Cgooglecloud&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=redis%2Caws%2Cgooglecloud&theme=light' />
+          <img src='https://skillicons.dev/icons?i=redis%2Caws%2Cgooglecloud' alt="learning" />
         </picture>
          
   </a>
